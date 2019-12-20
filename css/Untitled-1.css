@@ -1,0 +1,64 @@
+.box-shadow
+/* .paralax-mf,
+.service-box,
+.work-box,
+.card-blog  */
+{
+  box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+}
+
+.box-shadow-a,
+.button:hover {
+  box-shadow: 0 0 0 4px #cde1f8;
+}
+
+.box-shadow-full {
+    padding: 3rem 1.25rem;
+    position: relative;
+    background-color: #fff;
+    margin-bottom: 3rem;
+    z-index: 2;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .about-mf .box-shadow-full {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+
+
+  .title-s {
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 1.1rem;
+  }
+
+
+  .skill-mf span {
+    color: #4e4e4e;
+  }
+  
+  .skill-mf .progress {
+    background-color: #cde1f8;
+    margin: .5rem 0 1.2rem 0;
+    border-radius: 0;
+    height: .7rem;
+  }
+  
+  .skill-mf .progress .progress-bar {
+    height: .7rem;
+    background-color: #0078ff;
+  }
+  
+  .title-box {
+    margin-bottom: 4rem;
+  }
+
+  .line-mf {
+    width: 40px;
+    height: 5px;
+    background-color: #48abec;
+    margin: 0 auto;
+  }
+  
+    
